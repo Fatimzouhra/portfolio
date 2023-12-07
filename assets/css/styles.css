@@ -352,6 +352,9 @@ img{
 .lng{
   height: 410px;
 }
+#myImage2{
+  height: 100%;
+}
 #myImage6{
   height: 110%;
 }
